@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="NewAssignmentForm.aspx.cs" Inherits="ChallengeEpicSpiesAssignment.NewAssignmentForm" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="NewAssignmentForm.aspx.cs" Inherits="ChallengeEpicSpiesAssignment.NewAssignmentForm" MaintainScrollPositionOnPostback="true" %>
 
 <!DOCTYPE html>
 
