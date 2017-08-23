@@ -18,10 +18,10 @@ namespace ChallengeEpicSpiesAssignment
         {
             Calendar1.SelectedDate = DateTime.Today;
             Calendar2.SelectedDate = DateTime.Today.AddDays(14);
-            // Calendar3.SelectedDate = DateTime.Today.AddDays(21);
+            Calendar3.SelectedDate = DateTime.Today.AddDays(21);
 
             Calendar2.VisibleDate = Calendar2.SelectedDate;
-            // Calendar3.VisibleDate = Calendar3.SelectedDate;
+            Calendar3.VisibleDate = Calendar3.SelectedDate;
         }
 
         protected void assignButton_Click(object sender, EventArgs e)
